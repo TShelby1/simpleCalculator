@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.calc-container{
+    width:50rem;
+    height:50rem;
+    margin-top: auto;
+    margin-bottom:auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: blue;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content-container{
+    background-color: grey;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+.instructions{
+    display:flex;
+    background-color: rgb(192, 189, 189);
+    align-items: center;
+    flex-direction: column;
+}
+.summary{
+    color: white;
+    margin-bottom:10rem;
+    font-weight: bold;
+    line-height: 1.5px;
+    letter-spacing: 1.5px;
+
+}
+
+.summary p{
+    margin-bottom:2rem;
+}
