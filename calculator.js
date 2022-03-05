@@ -2,7 +2,7 @@ function calculation(){
     console.log("Calculating ...");
     // get the alues from the prompt and store them in two variables (lets)
     let number1=Number(prompt("Enter number 1"));
-    let number2=Number(prompt ("Enter number 2"))
+    let number2=Number(prompt ("Enter number 2"));
 
     //  do the operations and store the results in variables (need four variables)
     let quotient=number1/number2;
